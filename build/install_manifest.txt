@@ -1,3 +1,0 @@
-/home/szy/code/c++/CppServer/build/bin/Server
-/home/szy/code/c++/CppServer/build/bin/Client
-/home/szy/code/c++/CppServer/build/bin/lib_server.so

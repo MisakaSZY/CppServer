@@ -1,6 +1,0 @@
-/home/szy/code/c++/CppServer/build/CMakeFiles/_server.dir
-/home/szy/code/c++/CppServer/build/CMakeFiles/Server.dir
-/home/szy/code/c++/CppServer/build/CMakeFiles/Single_Client.dir
-/home/szy/code/c++/CppServer/build/CMakeFiles/Mult_Client.dir
-/home/szy/code/c++/CppServer/build/CMakeFiles/edit_cache.dir
-/home/szy/code/c++/CppServer/build/CMakeFiles/rebuild_cache.dir
