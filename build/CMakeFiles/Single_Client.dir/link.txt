@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -std=c++17 -Wall -Wextra CMakeFiles/Single_Client.dir/test/single_client.cpp.o -o bin/Single_Client  -Wl,-rpath,/home/szy/code/c++/CppServer/build lib_server.so 
